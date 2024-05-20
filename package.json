@@ -1,0 +1,16 @@
+{
+  "name": "tornado-v14-empty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Src/index.js",
+  "scripts": {
+    "test": "Src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.4.0"
+  }
+}
