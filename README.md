@@ -1,6 +1,6 @@
-### ALIN LAZIM OLUR ;)
+# ALIN LAZIM OLUR ;)
 
-##### .ENV KUR PACKAGE'NİN YANINA!
+### .ENV KUR PACKAGE'NİN YANINA!
 ```
 # Ana Gerekçeler
 Token=""
