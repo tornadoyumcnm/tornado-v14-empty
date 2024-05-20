@@ -3,6 +3,7 @@ const client = new Discord.Client({ intents: [Discord.GatewayIntentBits.Guilds, 
 
 require('dotenv').config();
 require("./Events/Ready.js")(client);
+require("./Utils/ButtonUtils.js")(client);
 require("./Handlers/PrefixHandler.js")(client);
 require("./Handlers/SlashHandler.js")(client);
 require("./Handlers/MongoHandler.js")(client);
