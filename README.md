@@ -15,5 +15,3 @@ HataColor=""
 TamamlandiColor=""
 MainColor=""
 ```
-
-# SSLER BURADA!
